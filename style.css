@@ -12,7 +12,16 @@ p {
 	background-color: #FFA0E5;
 }
 .eagle_page {
-	background-color: coral;
+	background-color: #ff7f50;
+}
+.crane_page {
+  background-color: #1eea92;
+}
+.flamingo_page {
+  background-color: #daa520;
+}
+.success_page {
+  background-color: #ffed2a;
 }
 h1, h2 {
   text-align: center;
